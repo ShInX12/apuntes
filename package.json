@@ -1,0 +1,19 @@
+{
+  "name": "apuntes",
+  "version": "0.0.1",
+  "description": "Apuntes sobre distintas tecnologías que me han parecido útiles",
+  "main": "index.js",
+  "authors": {
+    "name": "Sergio Naranjo",
+    "email": "sergio6006@hotmail.com"
+  },
+  "repository": "https://github.com/ShInX12/apuntes.git/apuntes",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
